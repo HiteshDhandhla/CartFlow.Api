@@ -211,8 +211,8 @@ CartFlow.Api/
 
 ## Related Repository
 
-- [CartFlow Angular UI](https://github.com/Hitesh061196/cart-flow-ui)
+- [CartFlow Angular UI](https://github.com/HiteshDhandhla/cart-flow-ui)
 
 ## Author
 
-[Hitesh061196](https://github.com/Hitesh061196)
+[HiteshDhandhla](https://github.com/HiteshDhandhla)
