@@ -1,7 +1,7 @@
 # CartFlow API
 
 CartFlow API is the ASP.NET Core backend for the
-[CartFlow Angular application](https://github.com/Hitesh061196/cart-flow-ui).
+[CartFlow Angular application](https://github.com/HiteshDhandhla/cart-flow-ui).
 It owns product search, persistent cart state, price calculations, invoice
 generation, and invoice history.
 
